@@ -46,9 +46,10 @@ This project became my experiment in:
 ---
 
 ## 📸 Preview
-*(Optional — insert your screenshots here)*
 
-![MinimalTodo Screenshot](https://user-images.githubusercontent.com/example/minimaltodo.png)
+![MinimalTodo Screenshot 1](https://github.com/marktsai333/MinimalTodo/blob/main/Screenshots%20and%20Demo/demo1.png?raw=true)
+![MinimalTodo Screenshot 2](https://github.com/marktsai333/MinimalTodo/blob/main/Screenshots%20and%20Demo/demo2.png?raw=true)
+![MinimalTodo Screenshot 3](https://github.com/marktsai333/MinimalTodo/blob/main/Screenshots%20and%20Demo/demo3.png?raw=true)
 
 ---
 
