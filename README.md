@@ -47,9 +47,11 @@ This project became my experiment in:
 
 ## 📸 Preview
 
-![MinimalTodo Screenshot 1](https://github.com/marktsai333/MinimalTodo/blob/main/Screenshots%20and%20Demo/demo1.png?raw=true)
-![MinimalTodo Screenshot 2](https://github.com/marktsai333/MinimalTodo/blob/main/Screenshots%20and%20Demo/demo2.png?raw=true)
-![MinimalTodo Screenshot 3](https://github.com/marktsai333/MinimalTodo/blob/main/Screenshots%20and%20Demo/demo3.png?raw=true)
+<img src="https://github.com/marktsai333/MinimalTodo/blob/main/Screenshots%20and%20Demo/demo1.png?raw=true" width="300" alt="MinimalTodo Screenshot 1">
+
+<img src="https://github.com/marktsai333/MinimalTodo/blob/main/Screenshots%20and%20Demo/demo2.png?raw=true" width="300" alt="MinimalTodo Screenshot 2">
+
+<img src="https://github.com/marktsai333/MinimalTodo/blob/main/Screenshots%20and%20Demo/demo3.png?raw=true" width="300" alt="MinimalTodo Screenshot 3">
 
 ---
 
